@@ -9,12 +9,17 @@ Hence, it is important to identify the customers most likely to subscribe the ca
 (Source: https://www.kaggle.com/code/berkinkaplanolu/banking-analyze/notebook)
 
 What to find out?
+
 (a)	Which features contributes high subscribed rate?
+
 (b)	Which analytics model has the highest score prediction for Banking Dataset?
+
 (c)	What strategy the marketing team could use to succeed in their campaign?
 
 Data Acquisition
+
 Marketing Target Analysis dataset was obtained from kaggle.com
+
 The data set includes information about:
 •	Customer’s age – the column is called age
 •	Customer type of job– the column is called job
@@ -22,7 +27,9 @@ The data set includes information about:
 •	Outcome of the previous marketing campaign – the column is called poutcome
 
 Data Dictionary
+
 Marketing Target Analysis Attribute Information (in order):
+
 1 - age (numeric)
 2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
 "blue-collar","self-employed","retired","technician","services")
